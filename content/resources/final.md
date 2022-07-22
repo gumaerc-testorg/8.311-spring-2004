@@ -5,6 +5,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/73d3a97ebc6f5a07c756760a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

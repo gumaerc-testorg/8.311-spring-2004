@@ -6,6 +6,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/d365ec581ef1e4b760d08525
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps7.pdf
 uid: d365ec58-1ef1-e4b7-60d0-8525c6046d3f
 ---
 Lorentz force, gauge invariance, free relativistic particle, canonical action, nonrelatavistic kepler problem.
-

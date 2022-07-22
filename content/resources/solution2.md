@@ -5,6 +5,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/295585bd731106e03d97861f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: solution2.pdf
 uid: 295585bd-7311-06e0-3d97-861fd6eaed6c
 ---
 Solution to conservation laws, magnetic dipole.
-

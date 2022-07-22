@@ -5,6 +5,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/ef917a56b60a2128f33a1535
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: solution11.pdf
 uid: ef917a56-b60a-2128-f33a-153559832c60
 ---
 Solution to retarded fields, dipole radiation, antennas.
-

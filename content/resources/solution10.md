@@ -6,6 +6,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/c6da78b2f2230a84dadfbd39
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: solution10.pdf
 uid: c6da78b2-f223-0a84-dadf-bd395949e2cf
 ---
 Solution to retarded electromagnetic green?s function, energy balance in radiation.
-

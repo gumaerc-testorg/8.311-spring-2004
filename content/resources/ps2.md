@@ -6,6 +6,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/5feaf772cc7c4d68842cbdcb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps2.pdf
 uid: 5feaf772-cc7c-4d68-842c-bdcb63cccec5
 ---
 Angular momentum conservation, magnetic dipole, rotating sphere, electric and magnetic charge system.
-

@@ -5,6 +5,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/39ac13bcdf6f672ed3d56399
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: charge_mov.pdf
 uid: 39ac13bc-df6f-672e-d3d5-639959fb0851
 ---
 Supplemental notes on charge moving in a dielectric.
-

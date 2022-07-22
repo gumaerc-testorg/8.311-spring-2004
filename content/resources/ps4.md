@@ -6,6 +6,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/e2e91f31824ce032a15ce40c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps4.pdf
 uid: e2e91f31-824c-e032-a15c-e40cba93d4a6
 ---
 Linear and circular polarization, Fresnel?s formula, EM waves in plasma, skin effct, group velocity, surface EM waves.
-

@@ -5,6 +5,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/a6251fecf86cebd35a721146
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: solution4.pdf
 uid: a6251fec-f86c-ebd3-5a72-1146f7e10a37
 ---
 Solution to electromagnetic waves in dispersive media.
-

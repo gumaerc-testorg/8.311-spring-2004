@@ -6,6 +6,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/460537c2678b0a2e958b7e04
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: solution6.pdf
 uid: 460537c2-678b-0a2e-958b-7e0481308548
 ---
 Solution to EM in confined geometry: resonance cavities, transmission lines.
-

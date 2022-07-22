@@ -5,6 +5,7 @@ file: /courses/8-311-electromagnetic-theory-spring-2004/a3bcb51d44861754d1e29d8c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: field_osc.pdf
 uid: a3bcb51d-4486-1754-d1e2-9d8c38751235
 ---
 Supplemental notes on field oscillators.
-

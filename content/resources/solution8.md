@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to special relativity review, relativistic dynamics.
 file: /courses/8-311-electromagnetic-theory-spring-2004/bd435989893011ea8087124084d9c079_solution8.pdf
+file_size: 78026
 file_type: application/pdf
 learning_resource_types:
 - Assignments

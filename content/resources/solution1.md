@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to conservation law in electromegnetism.
 file: /courses/8-311-electromagnetic-theory-spring-2004/c2aa2616216f4c14ebafaa6b3cbc097b_solution1.pdf
+file_size: 178819
 file_type: application/pdf
 learning_resource_types:
 - Assignments

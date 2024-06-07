@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to retarded fields, dipole radiation, antennas.
 file: /courses/8-311-electromagnetic-theory-spring-2004/ef917a56b60a2128f33a153559832c60_solution11.pdf
+file_size: 23909
 file_type: application/pdf
 learning_resource_types:
 - Assignments

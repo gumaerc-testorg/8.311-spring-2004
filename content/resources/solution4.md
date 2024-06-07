@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to electromagnetic waves in dispersive media.
 file: /courses/8-311-electromagnetic-theory-spring-2004/a6251fecf86cebd35a721146f7e10a37_solution4.pdf
+file_size: 58309
 file_type: application/pdf
 learning_resource_types:
 - Assignments

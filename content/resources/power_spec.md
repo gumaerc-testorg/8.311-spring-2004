@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplemental notes on power spectrum of radiations.
 file: /courses/8-311-electromagnetic-theory-spring-2004/a662f771f4e997e23bdb65d345b9d8ba_power_spec.pdf
+file_size: 59127
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

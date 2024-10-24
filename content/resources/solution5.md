@@ -2,7 +2,7 @@
 content_type: resource
 description: Solution to energy, forces and dispersion of the response function in
   dielectrics.
-file: /courses/8-311-electromagnetic-theory-spring-2004/34d942fc376490328c1ab273659b5161_solution5.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/34d942fc376490328c1ab273659b5161_solution5.pdf
 file_size: 103012
 file_type: application/pdf
 learning_resource_types:

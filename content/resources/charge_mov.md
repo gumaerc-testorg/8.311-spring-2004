@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental notes on charge moving in a dielectric.
-file: /courses/8-311-electromagnetic-theory-spring-2004/39ac13bcdf6f672ed3d5639959fb0851_charge_mov.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/39ac13bcdf6f672ed3d5639959fb0851_charge_mov.pdf
 file_size: 138258
 file_type: application/pdf
 learning_resource_types:

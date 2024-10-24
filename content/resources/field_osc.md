@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental notes on field oscillators.
-file: /courses/8-311-electromagnetic-theory-spring-2004/a3bcb51d44861754d1e29d8c38751235_field_osc.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/a3bcb51d44861754d1e29d8c38751235_field_osc.pdf
 file_size: 130343
 file_type: application/pdf
 learning_resource_types:

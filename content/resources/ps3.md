@@ -3,7 +3,7 @@ content_type: resource
 description: Boundary conditions at dielectric interfaces, image charges and dipoles,
   one?dimensional waves, electromagnetic wave packet, EM wave re?ection from a dielectric
   surface
-file: /courses/8-311-electromagnetic-theory-spring-2004/3d93a744dc2072cc02b80f3911b23013_ps3.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/3d93a744dc2072cc02b80f3911b23013_ps3.pdf
 file_size: 77715
 file_type: application/pdf
 learning_resource_types:

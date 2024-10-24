@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental notes on wave guides.
-file: /courses/8-311-electromagnetic-theory-spring-2004/197725d918b53ac8357e894be5125d93_wave_guides.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/197725d918b53ac8357e894be5125d93_wave_guides.pdf
 file_size: 133629
 file_type: application/pdf
 learning_resource_types:

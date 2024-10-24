@@ -2,7 +2,7 @@
 content_type: resource
 description: Lorentz force, gauge invariance, free relativistic particle, canonical
   action, nonrelatavistic kepler problem.
-file: /courses/8-311-electromagnetic-theory-spring-2004/d365ec581ef1e4b760d08525c6046d3f_ps7.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/d365ec581ef1e4b760d08525c6046d3f_ps7.pdf
 file_size: 77795
 file_type: application/pdf
 learning_resource_types:

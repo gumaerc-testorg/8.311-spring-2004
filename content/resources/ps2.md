@@ -2,7 +2,7 @@
 content_type: resource
 description: Angular momentum conservation, magnetic dipole, rotating sphere, electric
   and magnetic charge system.
-file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/5feaf772cc7c4d68842cbdcb63cccec5_ps2.pdf
+file: /courses/8-311-electromagnetic-theory-spring-2004/5feaf772cc7c4d68842cbdcb63cccec5_ps2.pdf
 file_size: 91147
 file_type: application/pdf
 learning_resource_types:

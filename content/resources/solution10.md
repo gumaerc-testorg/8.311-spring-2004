@@ -2,7 +2,7 @@
 content_type: resource
 description: Solution to retarded electromagnetic green?s function, energy balance
   in radiation.
-file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/c6da78b2f2230a84dadfbd395949e2cf_solution10.pdf
+file: /courses/8-311-electromagnetic-theory-spring-2004/c6da78b2f2230a84dadfbd395949e2cf_solution10.pdf
 file_size: 168621
 file_type: application/pdf
 learning_resource_types:

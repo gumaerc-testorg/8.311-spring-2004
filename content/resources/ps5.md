@@ -2,7 +2,7 @@
 content_type: resource
 description: Maxwell stress tensor, electric and magnetic forces, forces due to EM
   waves, energy balance in a conductor, memory function, kramers ?kronig relations.
-file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/368a1711ad63a4f5a47d28201d00682e_ps5.pdf
+file: /courses/8-311-electromagnetic-theory-spring-2004/368a1711ad63a4f5a47d28201d00682e_ps5.pdf
 file_size: 85130
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: Variable seperation in electrostatics, boundary condition for a nearly-perfect
   conductor, EM resonances of a rectangular cavity, properties of EM resonances, rectangular
   waveguide, coaxial transmission line.
-file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/b2062090e3e144c8129e825ffa83a5cc_ps6.pdf
+file: /courses/8-311-electromagnetic-theory-spring-2004/b2062090e3e144c8129e825ffa83a5cc_ps6.pdf
 file_size: 115084
 file_type: application/pdf
 learning_resource_types:

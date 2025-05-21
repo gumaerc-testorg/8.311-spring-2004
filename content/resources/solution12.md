@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to scattering, radiation of relativistic particles.
-file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/58d6668b9fb1b7cd96279fb954698f35_solution12.pdf
+file: /courses/8-311-electromagnetic-theory-spring-2004/58d6668b9fb1b7cd96279fb954698f35_solution12.pdf
 file_size: 88453
 file_type: application/pdf
 learning_resource_types:

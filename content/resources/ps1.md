@@ -2,7 +2,7 @@
 content_type: resource
 description: Displacement current, poynting vector, poynting vector in a conductor,
   maxwell electric stress tensor, maxwell magnetic stress tensor.
-file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/f702f473ecdbd8ac4f1193ff56e3be62_ps1.pdf
+file: /courses/8-311-electromagnetic-theory-spring-2004/f702f473ecdbd8ac4f1193ff56e3be62_ps1.pdf
 file_size: 99094
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to lorentz transformations of fields, relativistic dynamics.
-file: /courses/8-311-electromagnetic-theory-spring-2004/3175c5c7e4469298f564ea7db5fb47bd_solution9.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/3175c5c7e4469298f564ea7db5fb47bd_solution9.pdf
 file_size: 99655
 file_type: application/pdf
 learning_resource_types:

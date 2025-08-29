@@ -2,7 +2,7 @@
 content_type: resource
 description: Relativistic velocity addition, the twins, relativity of simultaneity,
   nonrelativstic charge, relativstic charge, charge in a uniform electric field
-file: /courses/8-311-electromagnetic-theory-spring-2004/633c8787d29e24905502118cfe576891_ps8.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/633c8787d29e24905502118cfe576891_ps8.pdf
 file_size: 121291
 file_type: application/pdf
 learning_resource_types:

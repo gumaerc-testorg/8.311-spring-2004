@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Solution to EM in confined geometry: resonance cavities, transmission
   lines.'
-file: /courses/8-311-electromagnetic-theory-spring-2004/460537c2678b0a2e958b7e0481308548_solution6.pdf
+file: /ol-ocw-studio-app/courses/8-311-electromagnetic-theory-spring-2004/460537c2678b0a2e958b7e0481308548_solution6.pdf
 file_size: 107204
 file_type: application/pdf
 learning_resource_types:

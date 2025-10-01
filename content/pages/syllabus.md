@@ -20,7 +20,7 @@ The aim of the course is two-fold. First, we shall discuss topics of E&M theory 
 
 ## Prerequisite
 
-[*8.07 Electromagnetism II*](https://ocw.mit.edu/courses/8-07-electromagnetism-ii-fall-2012/)
+{{% resource_link "6ce4a447-2646-4d45-8acd-561dc183ad02" "*8.07 Electromagnetism II*" %}}
 
 ## Recommended Textbooks
 
